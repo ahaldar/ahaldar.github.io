@@ -5,7 +5,7 @@ locale: en_IN
 description: A technical blog by Aparajita Haldar
 logo: marvin.jpg
 search: true
-url: https://ahaldar.github.io
+url: https://ahaldar.github.io/index.html
 
 # Jekyll configuration
 
