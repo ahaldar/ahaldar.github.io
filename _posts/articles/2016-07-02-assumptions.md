@@ -4,7 +4,7 @@ title: "Can-openers, Cows, and Razors"
 author: ahaldar
 categories: articles
 excerpt:
-tags: [assumptions, science]
+tags: [assumptions, economists, physicists, occam's razor, science]
 image:
   feature: so-simple-sample-image-2.jpg
   credit:
@@ -28,6 +28,7 @@ You there, the physics grad! Quit sniggering, you're up next.
 A metaphor for highly simplified scientific models of complex real life phenomena, poking fun at theoretical physicists and their habit of conveniently reducing a problem to the simplest imaginable form.
 
 > "How does a physicist milk a cow?"
+
 > "Well, first let us consider a spherical cow..."
 
 ![Spherical cow](http://ih1.redbubble.net/image.10708481.3753/fc,800x800,black.jpg "Spherical cow")
@@ -38,6 +39,7 @@ I'll close with a word of warning. The fewer assumptions, the better.
 Alternatively, Ockham's razor. A problem-solving principle attributed to William of Ockham:
 
 > Among competing hypotheses, the one with the fewest assumptions should be selected.
+
 One justification of Occam's razor is a direct result of basic probability theory. By definition, all assumptions introduce possibilities for error, therefore if an assumption does not improve the accuracy of a theory, its only effect is to increase the probability that the overall theory is wrong.
 
 ![Occam's professor](https://www.liverpool.ac.uk/pfg/Blog/files/2088_c953_512.gif "Occam's professor")

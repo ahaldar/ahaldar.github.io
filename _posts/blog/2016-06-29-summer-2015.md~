@@ -15,13 +15,11 @@ share: true
 
 
 # PS-I is great, but I'll pass
-
 Last year, I sat back and laughed while all my batchmates in the second year at BITS tore out great big tufts of their hair trying to drag 200+ PS-I stations into an order that would be less arbitrary than the order of the alphabet. Come PS-I allotment day, it seemed that no amount of dragging and dropping could have saved anyone from being shipped off to the most obscure power plant or fertiliser factory in the country. Allotments weren't the end of it. Then came the scramble to arrange for accommodation and travel, if they weren't among the lucky few to be interning near home.
 
 Much before this madness had begun, I'd already opted out. That is to say, I'd transferred from PS to TS. As a dualite, that meant committing to a year-long thesis in the fifth year and kissing goodbye to all possibility of industry exposure and potential PPOs. Not a problem, I was pretty sold on the whole “research” thing already.
 
 # IAS SR-who?
-
 Sometime in October, one of the many emails in my BITS inbox had details about a certain  Indian Academy of Sciences Summer Research Fellowship Programme. Or “IAS SRFP”, for sake of sanity. The application process was simple. One had to visit the horrific online application portal designed back in the Stone Age, and supply transcripts of grades, CV, SoP along with project proposals, and a preference list with at least 6 names chosen from the list of potential guides. These project mentors were professors from various top research institutes around the country, who had signed up to take summer interns.
 
 I had applied under the Computer Science category for the fellowship. Rather ambitious, given that I'd completed a grand total of zero courses in CS at the time. I did have some background in Mathematics that proved worthwhile, as I had identified researchers in Graph Theory and similar areas.
@@ -31,7 +29,6 @@ The trick, as far as I could ascertain, was to make a smart choice of potential 
 In late April, the list of selected candidates was announced, with guides allotted as per the Academy's discretion. I had been selected, and assigned to work with Prof. Vijay Natarajan in the Computer Science and Automation Department of IISc Bangalore.
 
 # The experience
-
 I was fortunate to have been matched with someone from my list of top choices. I could now spend the summer at home in Bangalore, visiting IISc as and when required. With a sprawling 400-something acre campus and every conceivable species of flora, IISc is a magical place. The old departments are in ancient buildings that still stand proud ten decades later. The campus is WiFi enabled, but all the routers of the world cannot penetrate some of those thick stone walls. Hell, you'd be lucky to get more than half a bar of signal in certain buildings.
 
 I was amused to discover that Prof. Vijay Natarajan happened to be alumnus of BITS Pilani. His research is in the area of Scientific Visualization, which essentially involves a combination of topology, graph theory, and computer application in order to better represent and analyse scientific data. I was given a bunch of research papers to read to understand the problems that he and his team were working on. When it comes to scientific visualization, finding efficient ways to extract features and compare datasets is the primary goal. To this end, I designed a framework to handle various operations and comparisons using contour trees. This required implementing a few of the described algorithms in C++ and using some existing graph modelling libraries. In fact, researchers at IISc are currently using a few of the tools available in my library.
