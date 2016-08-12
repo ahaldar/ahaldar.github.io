@@ -4,7 +4,7 @@ title: "Teapots, Coffee Mugs, Donuts, Hairy Balls, and Bottles"
 author: ahaldar
 categories: articles
 excerpt:
-tags: [utah teapot, topology, hairy ball, klein bottle]
+tags: [utah teapot, topology, klein bottle]
 image:
   feature: so-simple-sample-image-1.jpg
   credit:
@@ -33,6 +33,10 @@ Saddle points are where the slope of the function is zero, despite them not bein
 An orientable surface is one for which at any point, there is only one direction of the normal to the surface. The genus of a connected, orientable surface essentially tells you how many holes are in it. The teapot has a hole in the handle, hence genus greater than zero.
 
 ![Genus](https://universe-review.ca/I15-84-genus.jpg "Genus")
+
+Representing all this information by collapsing connected components into single points results in what is called a contour tree. In case this graph has loops, it is banished from the realm of trees and is called a Reeb graph instead.
+
+![Reeb graph]( "Reeb graph")
 
 # Coffee Mugs and Donuts
 The motivating insight behind topology is that what matters for some geometric problems is not the exact shape of the objects involved, but rather the way in which they are put together.
