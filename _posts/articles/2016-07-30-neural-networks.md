@@ -13,5 +13,5 @@ comments: true
 share: true
 ---
 
-![Prisma](https://github.com/ahaldar/neural-style/blob/master/1-my-content.jpg "Prisma")
+![Prisma](https://raw.githubusercontent.com/ahaldar/neural-style/master/1-my-content.jpg "Prisma")
 
