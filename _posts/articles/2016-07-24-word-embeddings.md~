@@ -13,11 +13,11 @@ comments: true
 share: true
 ---
 
+# Why?
 An image is easy enough to encode as a vector with all th epixel intensity values. This means that two similar images are likely to have vectors that are similar too.
 On the other hand, for text, individual words are often encoded using arbitrary reference ids. Thus despite the obvious similarities between "cat" and "dog", the ids could be vastly different.
 
 As it turns out, to quote J. R. Firth:
 
 > You shall know a word by the company it keeps
-
 
