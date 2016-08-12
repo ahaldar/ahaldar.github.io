@@ -33,3 +33,5 @@ The occasional sentence might trip it up though. Here's a classic example that l
 > Time flies like an arrow; fruit flies like a banana
 
 ![Arrow Banana](http://www.thequotepedia.com/images/32/fruit-flies-like-a-banana-time-quote.jpg "Arrow Banana")
+
+This sentence is syntactically ambiguous and, for some reason, is known as a "garden path" sentence.
