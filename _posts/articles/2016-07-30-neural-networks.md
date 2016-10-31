@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neural Networks"
+title: "Do Androids Dream of Electric Sheep?"
 author: ahaldar
 categories: articles
 excerpt:
@@ -12,6 +12,11 @@ image:
 comments: true
 share: true
 ---
+
+Google's Deep Dream shows us that machines can indeed generate trippy dream-like images and videos.
+
+But can a machine ever paint like Picasso? Can a robot draw like Dali?
+Apparently yes.
 
 Recently, a program that enthralled me was based on a paper on “A neural algorithm of artistic style”, which was able to combine two images preserving the content of one and the artistic style of the other. I tuned some parameters, had my GPU struggling for hours, and was delighted by the resulting images.
 
